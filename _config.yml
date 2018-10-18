@@ -34,7 +34,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github',  'weixin']
   zhihu: ''
 
 # 分页
-paginate: 2
+paginate: 6
 paginatepath: ['page:num']
 
 # since
