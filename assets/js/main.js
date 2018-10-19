@@ -39,3 +39,11 @@ function showRight() {
 function goneRight() {
   rightTab.setAttribute("class","rotateOutDownRight self-animated");
 }
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b6fc9ef264ac867fd623397ce0c54046";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
