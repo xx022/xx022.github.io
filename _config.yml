@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: 'StarStarBlog'
-description: 'twink twink little star'
+title: 'Little Star Blog'
+description: 'Twinkle Twinkle Little Star'
 keywords: 'your web keywords, 博客'
 url: 'https://xx022.github.io' # your host
 
@@ -15,8 +15,8 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'Ljx'
-NickName: 'StarS'
-webtitle: 'StarStar博客'
+NickName: 'Littlestar'
+webtitle: 'little star blog'
 bio: 'your awesome bio'
 about: true
 aboutyou: '~程序媛~&&~小仙女~'
@@ -60,7 +60,7 @@ disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
 livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
+livere_uid: 'MTAyMC80MDQ3NS8xNzAwMg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: false
 Gitment_owner: 'xx022'  # github用户名
