@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-23T11:10:42+08:00</updated><id>http://localhost:4000/</id><title type="html">StarStarBlog</title><subtitle>twink twink little star</subtitle><author><name>true</name></author><entry><title type="html">git&amp;amp;blog操作</title><link href="http://localhost:4000/2018/10/22/github-blog.html" rel="alternate" type="text/html" title="git&amp;blog操作" /><published>2018-10-22T09:37:21+08:00</published><updated>2018-10-22T09:37:21+08:00</updated><id>http://localhost:4000/2018/10/22/github-blog</id><content type="html" xml:base="http://localhost:4000/2018/10/22/github-blog.html">&lt;p&gt;最近刚刚搭建自己的博客，使用&lt;code class=&quot;highlighter-rouge&quot;&gt;Github pages+jekyll&lt;/code&gt;。还有好多操作命令不熟悉，写下来记录一下 。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-24T14:27:32+08:00</updated><id>http://localhost:4000/</id><title type="html">Little Star Blog</title><subtitle>Twinkle Twinkle Little Star</subtitle><author><name>true</name></author><entry><title type="html">java小笔记</title><link href="http://localhost:4000/2018/10/24/java%E5%B0%8F%E7%AC%94%E8%AE%B0.html" rel="alternate" type="text/html" title="java小笔记" /><published>2018-10-24T09:37:21+08:00</published><updated>2018-10-24T09:37:21+08:00</updated><id>http://localhost:4000/2018/10/24/java%E5%B0%8F%E7%AC%94%E8%AE%B0</id><content type="html" xml:base="http://localhost:4000/2018/10/24/java%E5%B0%8F%E7%AC%94%E8%AE%B0.html">&lt;p&gt;```&lt;/p&gt;
+
+&lt;h3 id=&quot;post请求&quot;&gt;post请求：&lt;/h3&gt;</content><author><name>true</name></author><category term="java" /><summary type="html">```</summary></entry><entry><title type="html">git&amp;amp;blog操作</title><link href="http://localhost:4000/2018/10/22/github-blog.html" rel="alternate" type="text/html" title="git&amp;blog操作" /><published>2018-10-22T09:37:21+08:00</published><updated>2018-10-22T09:37:21+08:00</updated><id>http://localhost:4000/2018/10/22/github-blog</id><content type="html" xml:base="http://localhost:4000/2018/10/22/github-blog.html">&lt;p&gt;最近刚刚搭建自己的博客，使用&lt;code class=&quot;highlighter-rouge&quot;&gt;Github pages+jekyll&lt;/code&gt;。还有好多操作命令不熟悉，写下来记录一下 。&lt;/p&gt;
 
 &lt;p&gt;git的常见操作&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone url 从远程仓库（url地址）下载项目到本地
@@ -32,32 +34,36 @@ bundle exec jekyll s   本地调试，启动服务器
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>true</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">net</title><link href="http://localhost:4000/2018/10/18/first.html" rel="alternate" type="text/html" title="net" /><published>2018-10-18T00:00:00+08:00</published><updated>2018-10-18T00:00:00+08:00</updated><id>http://localhost:4000/2018/10/18/first</id><content type="html" xml:base="http://localhost:4000/2018/10/18/first.html">&lt;blockquote&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>true</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">网络相关</title><link href="http://localhost:4000/2018/10/18/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.html" rel="alternate" type="text/html" title="网络相关" /><published>2018-10-18T00:00:00+08:00</published><updated>2018-10-18T00:00:00+08:00</updated><id>http://localhost:4000/2018/10/18/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3</id><content type="html" xml:base="http://localhost:4000/2018/10/18/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.html">&lt;blockquote&gt;
   &lt;p&gt;海纳百川有容乃大 壁立千仞无欲则刚.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h1 id=&quot;网络大标题&quot;&gt;网络（大标题）&lt;/h1&gt;
+&lt;h1 id=&quot;网络相关知识&quot;&gt;网络相关知识&lt;/h1&gt;
 
-&lt;h2 id=&quot;计算机网络标题&quot;&gt;计算机网络(标题)&lt;/h2&gt;
-
-&lt;h3 id=&quot;小标题&quot;&gt;小标题&lt;/h3&gt;
-
-&lt;p&gt;this is my first blog！&lt;/p&gt;
 &lt;h3 id=&quot;局域网的地址分为abc三类&quot;&gt;局域网的地址分为A、B、C三类：&lt;/h3&gt;
 
-&lt;p&gt;叙述1：   A类：10.0.0.0-10.255.255.255
-         B类：172.16.0.0.-172.31.255.255
-         C类：192.168.0.0-192.168.255.255&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A类：10.0.0.0-10.255.255.255
+B类：172.16.0.0.-172.31.255.255
+C类：192.168.0.0-192.168.255.255
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;http和https用于web浏览器和网站服务器之间传递信息&quot;&gt;http和https：用于web浏览器和网站服务器之间传递信息&lt;/h3&gt;
 
-&lt;p&gt;叙述2：
-    http:使用超文本传输协议，明文传输；而https则是使用具有安全性的ssl加密传输协议；
-    https：需要ca认证证书，一般不免费，需要付钱
-    http比http安全，http链接是无状态的，而https链接需要SSL和http构建的加密身份认证的网络安全协议。&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;http:使用超文本传输协议，明文传输；而https则是使用具有安全性的ssl加密传输协议；
+https：需要ca认证证书，一般不免费，需要付钱
+http比http安全，http链接是无状态的，而https链接需要SSL和http构建的加密身份认证的网络
+安全协议。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;叙述3跨域访问a网站的js试图访问b网站&quot;&gt;叙述3：跨域访问;A网站的js试图访问B网站&lt;/h3&gt;
+&lt;h3 id=&quot;跨域访问a网站的js试图访问b网站&quot;&gt;跨域访问;A网站的js试图访问B网站&lt;/h3&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;可以使用jsonp方式，只支持http的get请求。
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;100%&quot; height=&quot;385&quot; src=&quot;http://www.youtube.com/embed/gfmjMWjn-Xg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content><author><name>LiJX</name></author><category term="网络基础" /><summary type="html">海纳百川有容乃大 壁立千仞无欲则刚.</summary></entry></feed>
+
+&lt;h3 id=&quot;post请求携带报文编码&quot;&gt;post请求携带报文编码：&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;body:%7B%22head%22%3A%7B%22requestId%22%3A%221111111111%22%2C%22secretId%22%3A%22ec0001%22%2C%22productCode%22%3A%22HECHECK00001%22%2C%22signature%22%3A%226JWj6bGik9bX63Z9VyAn3Oz9s40=%22%7D%2C%22param%22%3A%22TQO68j54uY3W3T4ahDVyNPu5W277zgzthQbgS2ftHDcbXOphjmXd+5TPzs%2FYbXFR%2Fo2IoNaNNzzbxoShy0mabA%3D%3D%22%7D
+这种格式，时被unicode编码了，需要使用URLDecoder.decode(body, &quot;utf-8&quot;)解码成明文格式
+resJson:{&quot;head&quot;:{&quot;requestId&quot;:&quot;1111111111&quot;,&quot;secretId&quot;:&quot;ec0001&quot;,&quot;productCode&quot;:&quot;HECHECK00001&quot;,&quot;signature&quot;:&quot;6JWj6bGik9bX63Z9VyAn3Oz9s40=&quot;},&quot;param&quot;:&quot;TQO68j54uY3W3T4ahDVyNPu5W277zgzthQbgS2ftHDcbXOphjmXd 5TPzs/YbXFR/o2IoNaNNzzbxoShy0mabA==&quot;}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;iframe type=&quot;text/html&quot; width=&quot;100%&quot; height=&quot;185&quot; src=&quot;http://www.youtube.com/embed/gfmjMWjn-Xg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content><author><name>LiJX</name></author><category term="网络基础" /><summary type="html">海纳百川有容乃大 壁立千仞无欲则刚.</summary></entry></feed>
