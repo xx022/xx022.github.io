@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "git&blog操作"
+title:  "git常用命令"
 date:   2018-10-22 09:37:21 +0800
 tags: git&blog操作
 color: rgb(255,210,32)
 cover: '../assets/lifetree.jpg'
-subtitle: 'git常用命令'
+
 ---
 最近刚刚搭建自己的博客，使用`Github pages+jekyll`。还有好多操作命令不熟悉，写下来记录一下 。
 
