@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-10-19 14:05:21 +0800
-tags: jekyll update
+date:   2018-10-18 14:05:21 +0800
+tags: welcome
 color: rgb(255,90,90)
 cover: '../assets/test.png'
 
