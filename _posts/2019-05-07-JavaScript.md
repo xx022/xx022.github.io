@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript相关"
 date:   2019-05-07 09:37:21 +0800
-tags: 权限控制
+tags:   前端
 color: rgb(193,255,193)
 cover: '../assets/lifetree.jpg'
 
