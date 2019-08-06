@@ -42,7 +42,7 @@ Socket.send()  使用连接发送数据
 Socket.close()  关闭连接
 
 
-示例：
+jsp页面示例：
 ```
     // 初始化一个 WebSocket 对象
     var ws = new WebSocket("ws://localhost:9998/echo");
@@ -66,8 +66,6 @@ Socket.close()  关闭连接
     };
 
 ```
-
-
 
 客户端能判断出服务器的socket连接是否关闭，
 
