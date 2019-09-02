@@ -3,8 +3,8 @@ layout: post
 title:  "information "
 date:   2019-09-01 13:37:21 +0800
 tags:   information
-color: rgb(253,255,193)
-cover: '../assets/lifetree.jpg'
+color: (127,255,212)
+<!--cover: '../assets/lifetree.jpg'-->
 
 ---
 Li Jingxing
